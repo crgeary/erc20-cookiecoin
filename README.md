@@ -1,6 +1,6 @@
-# Cookie Token
+# CookieCoin
 
-The cookie token is an ERC20 token for the Ethereum network.
+The cookie coin is an ERC20 token for the Ethereum network.
 
 ---
 
